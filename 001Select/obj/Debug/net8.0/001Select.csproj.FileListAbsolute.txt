@@ -1,0 +1,14 @@
+C:\Users\Alisho\Desktop\.Net Core\Week6\Day1(15.04)\Practice-day(2)\001Select\bin\Debug\net8.0\001Select.exe
+C:\Users\Alisho\Desktop\.Net Core\Week6\Day1(15.04)\Practice-day(2)\001Select\bin\Debug\net8.0\001Select.deps.json
+C:\Users\Alisho\Desktop\.Net Core\Week6\Day1(15.04)\Practice-day(2)\001Select\bin\Debug\net8.0\001Select.runtimeconfig.json
+C:\Users\Alisho\Desktop\.Net Core\Week6\Day1(15.04)\Practice-day(2)\001Select\bin\Debug\net8.0\001Select.dll
+C:\Users\Alisho\Desktop\.Net Core\Week6\Day1(15.04)\Practice-day(2)\001Select\bin\Debug\net8.0\001Select.pdb
+C:\Users\Alisho\Desktop\.Net Core\Week6\Day1(15.04)\Practice-day(2)\001Select\obj\Debug\net8.0\001Select.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alisho\Desktop\.Net Core\Week6\Day1(15.04)\Practice-day(2)\001Select\obj\Debug\net8.0\001Select.AssemblyInfoInputs.cache
+C:\Users\Alisho\Desktop\.Net Core\Week6\Day1(15.04)\Practice-day(2)\001Select\obj\Debug\net8.0\001Select.AssemblyInfo.cs
+C:\Users\Alisho\Desktop\.Net Core\Week6\Day1(15.04)\Practice-day(2)\001Select\obj\Debug\net8.0\001Select.csproj.CoreCompileInputs.cache
+C:\Users\Alisho\Desktop\.Net Core\Week6\Day1(15.04)\Practice-day(2)\001Select\obj\Debug\net8.0\001Select.dll
+C:\Users\Alisho\Desktop\.Net Core\Week6\Day1(15.04)\Practice-day(2)\001Select\obj\Debug\net8.0\refint\001Select.dll
+C:\Users\Alisho\Desktop\.Net Core\Week6\Day1(15.04)\Practice-day(2)\001Select\obj\Debug\net8.0\001Select.pdb
+C:\Users\Alisho\Desktop\.Net Core\Week6\Day1(15.04)\Practice-day(2)\001Select\obj\Debug\net8.0\001Select.genruntimeconfig.cache
+C:\Users\Alisho\Desktop\.Net Core\Week6\Day1(15.04)\Practice-day(2)\001Select\obj\Debug\net8.0\ref\001Select.dll
